@@ -26,4 +26,4 @@ I did not create a secod budget because i was concerned of budget spending going
 
 
 ### Recreate Architecture Design
-![Crudder Logial Design](assest/logical-architecture%20-design.PNG)
+![Crudder Logial Design](assets/logical-architecture%20-design.PNG)
