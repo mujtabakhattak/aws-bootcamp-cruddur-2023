@@ -25,4 +25,5 @@ I did not create a secod budget because i was concerned of budget spending going
 ![Image of the Budget alarm i Created](assets/budget-alarm.PNG)
 
 
-### Logical Architecture Design
+### Recreate Architecture Design
+![Crudder Logial Design](assest/logical-architecture%20-design.PNG)
