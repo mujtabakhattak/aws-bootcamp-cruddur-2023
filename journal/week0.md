@@ -3,6 +3,7 @@
 
 ### Installing AWS CLI in Gitpod
 i installed aws cli in gitpod and saved that into branch.
+It can be seen woking for the currnt user.
 
 
 ### Create a Budget
